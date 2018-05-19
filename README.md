@@ -1,0 +1,2 @@
+# WeatherApp
+Exam purposes
