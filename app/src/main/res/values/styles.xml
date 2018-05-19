@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+
+    <style name="splashHeader">
+        <item name="android:textSize">30sp</item>
+    </style>
+
 </resources>

@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">WeatherApp</string>
+    <string name="splash_main">MAIN</string>
+    <string name="splash_dev">DEV</string>
+    <string name="splash_production">PRODUCTION</string>
+    <string name="splash_test">TEST</string>
+
 </resources>
