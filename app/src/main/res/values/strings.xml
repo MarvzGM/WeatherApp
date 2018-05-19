@@ -5,4 +5,8 @@
     <string name="splash_production">PRODUCTION</string>
     <string name="splash_test">TEST</string>
 
+    <string name="main_refresh">REFRESH</string>
+    <string name="error_api">An error has occurred while processing api.</string>
+    <string name="error_api_null">Got a return of null</string>
+    <string name="main_weather">Weather</string>
 </resources>
