@@ -16,6 +16,19 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+
+    flavorDimensions"default"
+    productFlavors{
+        production{
+            applicationId"com.example.marvinchua.weatherapp.production"
+        }
+        dev{
+            applicationId"com.example.marvinchua.weatherapp.dev"
+        }
+        _test{
+            applicationId"com.example.marvinchua.weatherapp.test"
+        }
+    }
 }
 
 dependencies {
