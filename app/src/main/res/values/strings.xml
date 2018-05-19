@@ -5,4 +5,5 @@
     <string name="splash_production">PRODUCTION</string>
     <string name="splash_test">TEST</string>
 
+    <string name="main_refresh">REFRESH</string>
 </resources>
